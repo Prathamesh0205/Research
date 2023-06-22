@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74a0bb70.css",
+    "main.js": "/static/js/main.876c6011.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Image.png": "/static/media/Image.0f7fb31d47017e19f8fb.png",
+    "static/media/Computer login-rafiki.png": "/static/media/Computer login-rafiki.4743b50a844cee81cde4.png",
+    "static/media/search.png": "/static/media/search.cadee8cdb0c0afb1a713.png",
+    "static/media/Logo.png": "/static/media/Logo.1d5b4556fab5ac18bd80.png",
+    "index.html": "/index.html",
+    "main.74a0bb70.css.map": "/static/css/main.74a0bb70.css.map",
+    "main.876c6011.js.map": "/static/js/main.876c6011.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a0bb70.css",
+    "static/js/main.876c6011.js"
+  ]
+}
